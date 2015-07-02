@@ -5,3 +5,6 @@
 % Script to to something
 x = 1:10;
 y = sqrt(x);
+
+% Added more shit
+plot(x,y,'bo')
