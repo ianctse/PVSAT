@@ -16,3 +16,5 @@ save('binary_file.mat','y')
 % Run a function from a different m file
 clc
 output = getTime();
+
+% Added some comments
